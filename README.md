@@ -26,13 +26,13 @@ I am currently diving deeper into React.js to make my user interfaces more dynam
 
 ## Featured Projects
 # Growth Engineering & User Acquisition
-# (https://github.com/Wizzy645/viral-waitlist.git)
+ (https://github.com/Wizzy645/viral-waitlist.git)
 
 Overview: Built a pre-launch landing page with an integrated referral loop.
 
 Impact: Users receive a unique link upon sign-up and move up the queue when they invite friends, demonstrating a cost-effective viral acquisition strategy.
 
-# (https://github.com/Wizzy645/ab-test-project.git)
+ (https://github.com/Wizzy645/ab-test-project.git)
 
 Overview: Coded a user registration flow that randomly splits traffic between two different design variations.
 
@@ -43,16 +43,16 @@ Impact: Allows for data-driven tracking to determine which design version succes
 
 Overview: A web application utilizing the GEMINI API to automatically generate tailored cover letters and resume summaries based on user input.
 
-# (https://github.com/Wizzy645/my-chatbot-app.git)
+ (https://github.com/Wizzy645/my-chatbot-app.git)
 
 Overview: Developed a responsive chatbot interface capable of answering frequently asked questions to automate and streamline customer service workflows.
 
 ## Data Analytics & Full-Stack
-# (https://github.com/Wizzy645/ecommerce-price-scraper.git)
+ (https://github.com/Wizzy645/ecommerce-price-scraper.git)
 
 Overview: Wrote a Python script that automatically monitors and extracts daily pricing data from target online stores for competitive market analysis.
 
-# (https://github.com/Wizzy645/naira-expense-tracker.git)
+ (https://github.com/Wizzy645/naira-expense-tracker.git)
 
 Overview: A full-stack application that allows users to log daily financial transactions, categorize them, and visualize their spending habits over time.
 
